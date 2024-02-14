@@ -5,13 +5,8 @@ This project is a comprehensive toolset for analyzing and processing large volum
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Usage](#usage)
 - [Functionality](#functionality)
-
-## Introduction
-
-The Final Project is a powerful text analysis tool implemented in C#. It offers various features for processing and analyzing textual data, making it suitable for a wide range of applications, including research, data mining, and information retrieval.
 
 ## Usage
 
